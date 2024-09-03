@@ -23,3 +23,10 @@ height: 50px;
     display: flex;
     justify-content: center;
 }
+p{
+    flex-wrap: wrap;
+}
+.conquista{
+    display: flex;
+    justify-content: end;
+}
