@@ -6,5 +6,16 @@ font-size: large;
 flex-wrap: wrap;
 }
 .fotoDePerfil{
-
+width: auto;
+height: auto;
+}
+.fotosObjetivos{
+    width: 150px;
+    height: 150px;
+}
+.foto{
+    display: flex;
+    justify-items: ;
+    width: 100px;
+    height: 100px;
 }
